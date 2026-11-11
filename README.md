@@ -25,7 +25,7 @@ Hello! I'm **Haimi**, a Computer Science student passionate about technology, pr
 
 I'm currently developing my programming fundamentals and exploring how technology can solve real-world problems.
 
-- 🎓 Education: [Your Institution / Programme]
+- 🎓 Education: [Studying Computer Science(Network and Security)]
 - 💻 Currently learning: Java Programming
 - 🌱 Improving my problem-solving and programming skills.
 - 🔍 Interested in software development and technology.
