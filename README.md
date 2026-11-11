@@ -6,7 +6,7 @@
 
 <br/>
 
-**Aspiring Software Developer | Computer Science Student**
+**Network and Security Computer | Computer Science Student**
 
 *Learning, building, and improving one line of code at a time.*
 
