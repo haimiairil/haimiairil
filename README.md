@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/haimiairil">
-<img src="https://img.shields.io/badge/GitHub-haimiairil-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-haimiairil-181717?style=for-the-badge&logo=java,github"/>
 </a>
 <a href="https://www.utm.my/">
 <img src="https://img.shields.io/badge/University-UTM-00529B?style=for-the-badge&logo=google-scholar"/>
@@ -43,7 +43,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-<img align="right" width="180" src="https://skillicons.dev/icons?i=linux,java,python,github&perline=2"/>
+<img align="right" width="180" src="https://skillicons.dev/icons?i=github&perline=2"/>
 
 Hello! I'm **Haimi Airil**, a student at **Universiti Teknologi Malaysia (UTM)** with an interest in Computer Networking, Security and Information Technology.
 
@@ -98,8 +98,6 @@ My interests include:
 
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="55"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="55"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
 
 </div>
