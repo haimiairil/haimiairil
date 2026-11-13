@@ -152,46 +152,6 @@ Welcome to my project collection! This section contains my academic assignments,
 | 📂 `Web-Development/` | HTML, CSS and JavaScript projects |
 | 📂 `Documentation/` | Notes, reports and technical documentation |
 
-### 🗂️ Suggested Repository Structure
-
-```text
-haimiairil/
-│
-├── README.md
-│
-├── TIS/
-│   ├── Assignments/
-│   ├── Reports/
-│   └── Research/
-│
-├── Java-Programming/
-│   ├── Basic-Programming/
-│   ├── Arrays/
-│   ├── Methods/
-│   └── Mini-Projects/
-│
-├── Networking/
-│   ├── Network-Fundamentals/
-│   └── Network-Exercises/
-│
-├── Cybersecurity/
-│   ├── Security-Fundamentals/
-│   └── Practical-Learning/
-│
-├── Web-Development/
-│   ├── HTML/
-│   ├── CSS/
-│   └── JavaScript/
-│
-└── Documentation/
-    ├── Notes/
-    └── Certificates/
-```
-
-*This is a suggested structure. Create these folders as separate repositories or inside a project repository as needed.*
-
----
-
 ## 📖 CURRENTLY LEARNING
 
 <div align="center">
