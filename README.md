@@ -149,7 +149,6 @@ Welcome to my project collection! This section contains my academic assignments,
 | 📂 `Java-Programming/` | Java coding exercises and projects |
 | 📂 `Networking/` | Computer networking exercises |
 | 📂 `Cybersecurity/` | Security learning and practical exercises |
-| 📂 `Web-Development/` | HTML, CSS and JavaScript projects |
 | 📂 `Documentation/` | Notes, reports and technical documentation |
 
 ## 📖 CURRENTLY LEARNING
