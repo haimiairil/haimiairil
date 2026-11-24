@@ -141,13 +141,20 @@ Welcome to my project collection! This section contains my academic assignments,
 
 ### 📁 Project Categories
 
-| Folder | Description |
+<div align="center">
+
+<a href="https://github.com/HaimiAiril/HaimiAiril.github.io">
+<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-Open%20Now-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+### 📁 Featured Work
+
+| Project | Description |
 |:---|:---|
-| 📂 `TIS/` | Technology and Information System assignments |
-| 📂 `Java-Programming/` | Java coding exercises and projects |
-| 📂 `Networking/` | Computer networking exercises |
-| 📂 `Cybersecurity/` | Security learning and practical exercises |
-| 📂 `Documentation/` | Notes, reports and technical documentation |
+| 📂 [Industry Talk 1 Poster](https://github.com/HaimiAiril/HaimiAiril.github.io/tree/main/poster) | From Developer to CEO, TIS Webinar reflection poster |
+| 📂 [PC Assembly and Disassembly](https://github.com/HaimiAiril/HaimiAiril.github.io/tree/main/pc-assembly) | Practical lab on opening and reassembling a desktop PC |
 
 ## 📖 CURRENTLY LEARNING
 
