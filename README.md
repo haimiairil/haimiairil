@@ -155,6 +155,8 @@ Welcome to my project collection! This section contains my academic assignments,
 |:---|:---|
 | 📂 [Industry Talk 1 Poster](https://github.com/HaimiAiril/HaimiAiril.github.io/tree/main/poster) | From Developer to CEO, TIS Webinar reflection poster |
 | 📂 [PC Assembly and Disassembly](https://github.com/HaimiAiril/HaimiAiril.github.io/tree/main/pc-assembly) | Practical lab on opening and reassembling a desktop PC |
+| 📂 [Design Thinking TIS Group 6]()
+
 
 ## 📖 CURRENTLY LEARNING
 
